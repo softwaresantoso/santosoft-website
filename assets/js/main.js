@@ -24,7 +24,7 @@ if ('serviceWorker' in navigator) {
   var form = document.getElementById('contact-form');
   if (!form) return;
 
-  var WA_NUMBER = '6281200000000'; // TODO: ganti dengan nomor WhatsApp bisnis SantoSoft
+  var WA_NUMBER = '6281212551846'; // TODO: ganti dengan nomor WhatsApp bisnis SantoSoft
 
   function encode(data) {
     return Object.keys(data)
